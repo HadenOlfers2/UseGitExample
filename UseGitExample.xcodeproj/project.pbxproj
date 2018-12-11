@@ -12,6 +12,7 @@
 		F4038CE421BF4D1700B49881 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4038CE221BF4D1700B49881 /* Main.storyboard */; };
 		F4038CE621BF4D1D00B49881 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4038CE521BF4D1D00B49881 /* Assets.xcassets */; };
 		F4038CE921BF4D1D00B49881 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4038CE721BF4D1D00B49881 /* LaunchScreen.storyboard */; };
+		F4038CF121BF50F200B49881 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4038CF021BF50F200B49881 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F4038CE521BF4D1D00B49881 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4038CE821BF4D1D00B49881 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F4038CEA21BF4D1D00B49881 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4038CF021BF50F200B49881 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				F4038CDE21BF4D1700B49881 /* AppDelegate.swift */,
 				F4038CE021BF4D1700B49881 /* ViewController.swift */,
+				F4038CF021BF50F200B49881 /* MapForItinerary.swift */,
 				F4038CE221BF4D1700B49881 /* Main.storyboard */,
 				F4038CE521BF4D1D00B49881 /* Assets.xcassets */,
 				F4038CE721BF4D1D00B49881 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				F4038CE121BF4D1700B49881 /* ViewController.swift in Sources */,
 				F4038CDF21BF4D1700B49881 /* AppDelegate.swift in Sources */,
+				F4038CF121BF50F200B49881 /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
